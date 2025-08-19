@@ -1,1 +1,1 @@
-# git-hands-on
+# My first git hands-on
